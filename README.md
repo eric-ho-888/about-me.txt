@@ -1,4 +1,4 @@
 # about-me.txt
-About me, remote
+About me
 I'm learning!!!
 Practise pull to local drive!!!
